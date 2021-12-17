@@ -1,0 +1,47 @@
+Starter file for CSS projects:
+
+1. Download from github or copy from where ever
+2. run npm install
+3. gulp watch
+4. Preview browser to put browser in editor.
+
+Toggle word wrap:   alt-z
+
+Toggle the sidebar: ctrl + b
+
+toggle file explorer: ctrl + shift + e
+ - open the sidebar and set to explorer
+ - to pick files and stuff like that.
+
+Quick open a file:  crtl + p
+
+Reopen a tab you just closed: ctrl+shift+t
+  - Keep pressing ctrl+shift+t and it will open the previous
+  - tab until there is no more to open. This works in broswers
+  - too!
+
+Close the active tab: ctrl+w
+
+Go to a specific tab that is open: alt+number
+- so to go to the third open tab alt+3
+
+Multiple cursors: alt+click
+
+add cursors to lines above or below: ctrl+alt+up/down
+
+Move a line of code up or down: alt+up/down
+ - You don't have to select the line.
+ - just hit the keys.
+
+ Move whole blocks by selecting block: alt+up/down
+
+toggle the terminal: ctrl + ~
+
+
+Starting a sass project:
+npm install --save-dev gulp gulp-sass sass browser-sync
+
+
+
+
+  
